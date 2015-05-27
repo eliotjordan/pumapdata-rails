@@ -1,4 +1,4 @@
-Basic Rails App for Editing PUMapData
+# Basic Rails App for Editing PUMapData
 
 http://crabonature.pl/posts/29-ms-sql-server-database-with-ruby-on-rails
 
