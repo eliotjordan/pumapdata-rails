@@ -1,0 +1,15 @@
+default: &default
+  adapter: sqlserver
+  host: xxx
+  username: xxx
+  password: xxx
+  pool: 5
+  timeout: 5000
+
+development:
+  <<: *default
+  database: PUMapData
+
+test:
+  <<: *default
+  database: PUMapData
